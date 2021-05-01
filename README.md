@@ -36,4 +36,4 @@
  
  
  ## Required 
-  User need to edit .env which contains your mongodb uri key and your secret key.
+  User need to edit .env and add your mongodb uri key and your secret key.
