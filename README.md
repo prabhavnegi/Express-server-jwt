@@ -14,6 +14,7 @@
  
  
  ## Working
+ 
   ### The api is tested on *Postman*
   
   🔵 A get request http://localhost:5000/users will send a json file conatining all the users.
@@ -31,6 +32,7 @@
   **_Note: In the authorization set the type to bearer token_**
  
  🔵 If the token is valid it will response with your email id else will send an unauthorized message.
+ 
  
  
  ## Required 
