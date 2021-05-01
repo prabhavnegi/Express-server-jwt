@@ -11,8 +11,11 @@
   
   For authorization, Passport library is used which will verify the jwt token every time we visit the protected route.
   
+  #### user need to edit .env which contains your mongodb uri key and your secret key.
+  
   ### Working
   The api is tested on **postman**
+  
   
   🔵 A get request http://localhost:5000/users will send a json file conatining all the users.
   
