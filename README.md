@@ -1,7 +1,7 @@
 ## Express-server-jwt
   This project was made for learning Express , mongodb Atlas , jwt and passport.
   
-  🟢 It is a simple api which which we can use to get users and add them.
+  🟢 It is a simple api which which can get user's basic details and add them.
 
   🟢 The user can then login with their credentials and it will authenticate and then authorized you a jwt token.
   
