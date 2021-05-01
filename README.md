@@ -14,7 +14,7 @@
  
  
  ## Working
-  The api is tested on **postman**
+  ### The api is tested on *Postman*
   
   🔵 A get request http://localhost:5000/users will send a json file conatining all the users.
   
@@ -32,5 +32,6 @@
  
  🔵 If the token is valid it will response with your email id else will send an unauthorized message.
  
- ### Required
+ 
+ ## Required 
   User need to edit .env which contains your mongodb uri key and your secret key.
