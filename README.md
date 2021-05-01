@@ -26,6 +26,6 @@
   
   🔵 Copy the token string and the to check for authorization 
   send a get request to http://localhost:5000/users/protected and add the token in the authorization field.
-  **_Note: In the authorization set the type to bearer token**
+  **_Note: In the authorization set the type to bearer token_**
  
  🔵 If the token is valid it will response with your email id else will send an unauthorized message.
