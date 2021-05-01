@@ -10,8 +10,8 @@
   🟢 By default jwt expiry is set to 1 hour.
   
   🟢 For authorization, Passport library is used which will verify the jwt token every time we visit the protected route.
-  
-  🟢 #### user need to edit .env which contains your mongodb uri key and your secret key.
+ 
+ 
   
   ##Working
   The api is tested on **postman**
@@ -32,3 +32,6 @@
   **_Note: In the authorization set the type to bearer token_**
  
  🔵 If the token is valid it will response with your email id else will send an unauthorized message.
+ 
+ ### Required
+  User need to edit .env which contains your mongodb uri key and your secret key.
