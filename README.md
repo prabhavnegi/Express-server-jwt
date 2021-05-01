@@ -1,19 +1,19 @@
 ## Express-server-jwt
   This project was made for learning Express , mongodb Atlas , jwt and passport.
   
-  It is a simple api which which we can use to get users and add them.
+  🟢 It is a simple api which which we can use to get users and add them.
 
-  The user can then login with their credentials and it will authenticate and then authorized you a jwt token.
+  🟢 The user can then login with their credentials and it will authenticate and then authorized you a jwt token.
   
-  Te jwt token is used to visit the protected route and is used to skip login in again.
+  🟢 The jwt token is used to visit the protected route and is used to skip login in again.
   
-  By default jwt expiry is set to 1 hour.
+  🟢 By default jwt expiry is set to 1 hour.
   
-  For authorization, Passport library is used which will verify the jwt token every time we visit the protected route.
+  🟢 For authorization, Passport library is used which will verify the jwt token every time we visit the protected route.
   
-  #### user need to edit .env which contains your mongodb uri key and your secret key.
+  🟢 #### user need to edit .env which contains your mongodb uri key and your secret key.
   
-  ### Working
+  ##Working
   The api is tested on **postman**
   
   
